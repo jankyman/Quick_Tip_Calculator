@@ -1,2 +1,6 @@
-# python_code
-my_code_projects
+# ***Quick_Tip_Calculator***
+
+
+Thank you for using 
+
+
